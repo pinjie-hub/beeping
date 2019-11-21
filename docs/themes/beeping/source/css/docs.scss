@@ -1,0 +1,23 @@
+// Colors
+$bordersColor: #efefef;
+$primary: #75BEFF;
+
+// Sizes
+
+@import './_menu';
+@import './_content';
+@import './_typography';
+@import './_code';
+
+body {
+  font-family: Graphik-Regular, Roboto, sans-serif;
+  letter-spacing: 0.10rem;
+  line-height: 0.30rem;
+  color: white;
+  margin: 0 auto;
+
+  background-image: url("../images/bg/bg-blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}

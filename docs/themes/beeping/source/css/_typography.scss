@@ -1,0 +1,85 @@
+$highlightColor: #FFFFFF;
+$subColor: #FFFFFF;
+
+h1 {  
+  font-family: Graphik-Bold, Roboto, sans-serif;  
+  font-size: 34px;  
+  letter-spacing: 0.40rem;
+  padding-top: 4%;
+  padding-bottom: 2%;
+  color: $highlightColor;  
+}
+
+h1 ~ hr {
+  margin-bottom: 4%;
+  border: 0;
+  height: 3px;
+  background: #333;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+}
+
+h2 {
+  font-family: Graphik-Medium, Roboto, sans-serif;
+  font-size: 25px;  
+  letter-spacing: 0.25rem; 
+  color: $highlightColor;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+h2 ~ hr {
+  margin-bottom: 4%;
+  border: 0;
+  height: 2px;
+  background: #333;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+}
+
+h3 {  
+  font-size: 20px;
+  letter-spacing: 0.20rem;
+  font-family: Graphik-Regular, Roboto, sans-serif;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+h3 ~ hr {
+  margin-bottom: 4%;
+  border: 0;
+  height: 1px;
+  background: #333;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
+}
+
+p, ul li {
+  color: $subColor;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0.20rem;
+  font-family: Graphik-Light, Roboto, sans-serif;
+}
+
+a {
+  color: $primary;
+  font-family: Graphik-Light, Roboto, sans-serif;
+  &:hover {
+    color: darken($primary, 10%);
+    font-family: Graphik-Regular, Roboto, sans-serif;
+  }
+}
+
+strong {
+  font-family: Graphik-Medium;
+}
