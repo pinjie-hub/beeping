@@ -9,9 +9,9 @@ lang: es
 
 ---
 
-Esta página se puede leer en los siguiente idiomas:
-
-[Inglés](#) | [Español](/beeping/es/links.html)
+> Esta página se puede leer en los siguiente idiomas:
+> 
+> [Inglés](#) | [Español](/beeping/es/links.html)
 
 =============================
 
@@ -19,13 +19,13 @@ Esta página se puede leer en los siguiente idiomas:
 
 ---
 
-Si te encuentras algún problema al implementar el protocolo, o bien algún error, o se te ocurre alguna mejora puedes **abrir una issue** en nuestro {% link Repositorio de Github https://github.com/beeping-io/beeping/issues true %}.
+> Si te encuentras algún problema al implementar el protocolo, o bien algún error, o se te ocurre alguna mejora puedes **abrir una issue** en nuestro {% link Repositorio de Github https://github.com/beeping-io/beeping/issues true %}.
 
 ### Stack Overflow 
 
 ---
 
-Este es el mejor sitio para hacer las preguntas técnicas que tengas sobre el proyecto. Desde nuestra página de {% link Stack Overflow https://stackoverflow.com/search?q=beeping&mixed=1 true %} podrás preguntar y responder a todas las cuestiones técnicas que necesites. 
+> Este es el mejor sitio para hacer las preguntas técnicas que tengas sobre el proyecto. Desde nuestra página de {% link Stack Overflow https://stackoverflow.com/search?q=beeping&mixed=1 true %} podrás preguntar y responder a todas las cuestiones técnicas que necesites. 
 
 Cuando escribas en {% link Stack Overflow https://stackoverflow.com/search?q=beeping&mixed=1 true %} acuérdate de usar el tag - **beeping** -.
 
@@ -33,7 +33,7 @@ Cuando escribas en {% link Stack Overflow https://stackoverflow.com/search?q=bee
 
 ---
 
-Desde **Gitter** hablamos entre nosotros sobre distintos temas relacionados con cada uno de los repositorios.
+> Desde **Gitter** hablamos entre nosotros sobre distintos temas relacionados con cada uno de los repositorios.
 
 Aquí os dejamos el acceso a {% link Gitter https://gitter.im/beepingio/community true %}.
 
