@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charSet='utf-8' />
+  <title>Beeping - Traducciones</title>
+  <link href='/beeping/fonts/stylesheet.css' rel='stylesheet'>
+  <link href='/beeping/css/docs.css' rel='stylesheet'>
+  <link href='/beeping/css/style.css' rel='stylesheet'>
+  <link rel="icon" type="image/x-icon" href='/beeping/favicon.ico'>
+</head>
+
+<body>
+  <div class='menu'>
+
+    <a class="logo" href='https://beeping.io/' target="_blank">
+      <img src='/beeping/images/brand/logo-white.png'>
+    </a>
+
+    <nav class='menu-nav'>
+      
+      <ul class='nav'>
+        <span>Beeping</span>
+        <ul class='nav'>
+          
+          <li>
+            <a href='/beeping/es/index.html' >Bienvenido</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/description.html' >Overview</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/license.html' >Licencia</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/links.html' >Accesos</a>
+          </li>
+          
+        </ul>
+      </ul>
+      
+      <ul class='nav'>
+        <span>Contribuciones</span>
+        <ul class='nav'>
+          
+          <li>
+            <a href='/beeping/es/contributors.html' >Cómo Ayudar</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/requirements.html' >Requisitos</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/clone.html' >Clonación</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/review.html' >Revisiones</a>
+          </li>
+          
+          <li>
+            <a href='/beeping/es/translate.html'  class='active'
+              >Traducciones</a>
+          </li>
+          
+        </ul>
+      </ul>
+      
+    </nav>
+  </div>
+
+  <div class='page'>    
+    <div class='page-content'>
+      <img src="https://beeping.io/assets/images/beeping/brand/brand48.png" style="margin-bottom: 1%;"/>                  
+      <h1 id="Traducciones"><a href="#Traducciones" class="headerlink" title="Traducciones"></a>Traducciones</h1><hr>
+<p>Esta página se puede leer en los siguiente idiomas:</p>
+<p><a href="#">Inglés</a> | <a href="/beeping/es/translate.html">Español</a></p>
+<p>================================================</p>
+<h2 id="Traduccion-de-documentos"><a href="#Traduccion-de-documentos" class="headerlink" title="Traducción de documentos"></a>Traducción de documentos</h2><hr>
+<p>Para hacer la traducción de un documento en una nueva lengua lo primero que debes hacer es crear el fichero de lengua.</p>
+<h3 id="Fichero-de-lengua"><a href="#Fichero-de-lengua" class="headerlink" title="Fichero de lengua"></a>Fichero de lengua</h3><blockquote>
+<p>En el caso de que existan estos ficheros no debes hacer nada más que revisar la traducción.</p>
+</blockquote>
+<p>Para entrar en el directorio de lenguas:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cd beeping/docs/themes/beeping/languages</span><br></pre></td></tr></table></figure>
+
+<p>Aquí te encontrarás con distintos archivos de tipo xx.yml. Lo primero que tienes que hacer es crear un nuevo fichero con el código de lenguaje al que vas a traducir.</p>
+<p>Por ejemplo, para crear una nueva lengua - el alemán - :</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ touch de.yml</span><br></pre></td></tr></table></figure>
+
+<p>Una vez hayamos creado el fichero de lengua lo que hay que hacer es editarlo y modificar el código de lenguaje al que vas a traducir.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nav: xx</span><br></pre></td></tr></table></figure>
+
+<p>Por ejemplo, para añadir la lengua alemana escribiremos:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nav: de</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>Una vez hayas creado el documento de lengua, debemos crear un nuevo menú.</p>
+</blockquote>
+<h3 id="Nuevo-menu"><a href="#Nuevo-menu" class="headerlink" title="Nuevo menú"></a>Nuevo menú</h3><p>Entramos en el directorio de menús:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cd beeping/docs/source/_data_</span><br></pre></td></tr></table></figure>
+
+<p>Aquí te encontrarás con distintos archivos de tipo xx.yml.</p>
+<p>Lo que debes hacer ahora es copiar un fichero origen xx.yml a la nueva lengua:</p>
+<p>Por ejemplo, para crear una nueva lengua - el alemán -, donde el destino de la traducción se el inglés:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cp en.yml de.yml</span><br></pre></td></tr></table></figure>
+
+<p>Una vez hecho lo anterior editamos el fichero y te encontrarás algo similar a lo que viene a continuación:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line">- title: Beeping</span><br><span class="line">  items:</span><br><span class="line">  - id: index</span><br><span class="line">    title: Bienvenido</span><br><span class="line">    href: /beeping/es/index.html</span><br><span class="line">  - id: description</span><br><span class="line">    title: Overview</span><br><span class="line">    href: /beeping/es/description.html</span><br><span class="line">  - id: license</span><br><span class="line">    title: Licencia</span><br><span class="line">    href: /beeping/es/license.html  </span><br><span class="line">  - id: links</span><br><span class="line">    title: Accesos</span><br><span class="line">    href: /beeping/es/links.html</span><br><span class="line">  </span><br><span class="line">- title: Contribuciones</span><br><span class="line">  items:</span><br><span class="line">    - id: contributors</span><br><span class="line">      title: Cómo Ayudar</span><br><span class="line">      href: /beeping/es/contributors.html</span><br><span class="line">    - id: requirements</span><br><span class="line">      title: Requisitos</span><br><span class="line">      href: /beeping/es/requirements.html</span><br><span class="line">    - id: clone</span><br><span class="line">      title: Clonación</span><br><span class="line">      href: /beeping/es/clone.html</span><br><span class="line">    - id: review</span><br><span class="line">      title: Revisiones</span><br><span class="line">      href: /beeping/es/review.html</span><br><span class="line">    - id: translate</span><br><span class="line">      title: Traducciones</span><br><span class="line">      href: /beeping/es/translate.html</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>El tag <strong>title</strong> contiene la palabra que se muestra en el menú. Por lo que es lo único que debemos traducir.</p>
+</blockquote>
+<blockquote>
+<p>También debemos modificar el tag <strong>href</strong> y modificar el código de lengua: href: /beeping/<strong>de</strong>/translate.html</p>
+</blockquote>
+<h3 id="Nuevos-documentos"><a href="#Nuevos-documentos" class="headerlink" title="Nuevos documentos"></a>Nuevos documentos</h3><p>Para traducir los documentos primero debemos entrar en el directorio donde se almacenan:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cd beeping/docs/source/</span><br></pre></td></tr></table></figure>
+
+<p>Aquí encontrarás todos los documentos de tipo MarkDown - .md - en la raíz. </p>
+<p>Los documentos de la raíz están escritos en inglés. </p>
+<p>Para crear nuevos documentos en la nueva lengua lo que debemos hacer es copiar los documentos origen en la nueva carpeta de lengua. Aquí os dejamos un ejemplo.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ mkdir de</span><br><span class="line">$ cp -R es/* de/</span><br></pre></td></tr></table></figure>
+
+<p>Una vez hayamos copiado los documentos accedemos a la carpeta desde donde vamos a trabajar:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cd de</span><br></pre></td></tr></table></figure>
+
+<h3 id="Estructura-de-un-documento"><a href="#Estructura-de-un-documento" class="headerlink" title="Estructura de un documento"></a>Estructura de un documento</h3><p>Un documento tiene dos partes, el Metadata y el contenido.</p>
+<p><strong>El Metadata</strong> se encuentra en la parte inicial del documento y tiene el siguiente formato:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: default</span><br><span class="line">id: requirements</span><br><span class="line">title: Requisitos</span><br><span class="line">lang: es</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>Lo único que debemos modificar del Metadata es el tag <strong>lang</strong> al nuevo código de lenguaje: <strong>lang: de</strong></p>
+</blockquote>
+<p><strong>El contenido</strong> está escrito en lenguaje de MarkDown, con lo que sólo nos quedará hacer la traducción del propio texto.</p>
+<blockquote>
+<p>Una vez hayas hecho las modificaciones que creas conveniente, haz un <strong>“Pull Request”</strong> de los cambios para que podamos ver los cambios y publicar el nuevo contenido online.</p>
+</blockquote>
+<h3 id="Frase"><a href="#Frase" class="headerlink" title="Frase"></a>Frase</h3><hr>
+<blockquote><p>“Elige un trabajo que ames y no tendrás que trabajar ningún día de tu vida.”</p>
+<footer><strong>Confucio</strong></footer></blockquote>
+
+    </div>
+
+  </div>
+  <div class='switch-page'>
+    
+    
+  </div>
+</body>
+
+</html>
