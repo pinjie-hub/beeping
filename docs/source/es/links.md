@@ -9,11 +9,11 @@ lang: es
 
 ---
 
-> Esta página se puede leer en los siguiente idiomas:
-> 
-> [Inglés](#) | [Español](/beeping/es/links.html)
+Esta página se puede leer en los siguiente idiomas:
+ 
+[Inglés](#) | [Español](/beeping/es/links.html)
 
-=============================
+================================================
 
 ### GitHub
 
@@ -42,14 +42,14 @@ Aquí os dejamos el acceso a {% link Gitter https://gitter.im/beepingio/communit
 
 ---
 
-Si queréis tener más información sobre el proyecto podéis entrar en nuestra {% link página web oficial https://beeping.io true %}. 
+> Si queréis tener más información sobre el proyecto podéis entrar en nuestra {% link página web oficial https://beeping.io true %}. 
 
 ### Frase
 
 ---
 
-> "Al final todo sale bien, y sino es así es porque no es el final."
->
->  Alfred Rivas .-
+{% blockquote Alfred Rivas %}
+"Al final todo sale bien, y sino es así es porque no es el final."
+{% endblockquote %}
 
 

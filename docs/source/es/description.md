@@ -9,11 +9,11 @@ lang: es
 
 ---
 
-> Esta página se puede leer en los siguiente idiomas:
-> 
-> [Inglés](#) | [Español](/beeping/es/description.html)
+Esta página se puede leer en los siguiente idiomas:
+ 
+[Inglés](#) | [Español](/beeping/es/description.html)
 
-=============================
+================================================
 
 **Beeping** es una tecnología que habilita a tus Apps para enviar y recibir información **a través de ultrasonidos**. 
 
@@ -31,6 +31,6 @@ Para descifrar el contenido de ese audio necesitamos un dispositivo que tenga un
 
 ---
 
-> "Si no existieras deberían inventarte."
->
->  Ricardo Mesquita .-
+{% blockquote Ricardo Mesquita  %}
+"Si no existieras deberían inventarte."
+{% endblockquote %}

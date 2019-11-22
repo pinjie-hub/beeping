@@ -9,11 +9,11 @@ lang: es
 
 ---
 
-> Esta página se puede leer en los siguiente idiomas:
-> 
-> [Inglés](#) | [Español](/beeping/es/license.html)
+Esta página se puede leer en los siguiente idiomas:
+ 
+[Inglés](#) | [Español](/beeping/es/license.html)
 
-=============================
+================================================
 
 La licencia de **Beeping** es **Apache License**, versión 2.0, que es **open source**. 
 
@@ -23,6 +23,6 @@ La licencia de **Beeping** es **Apache License**, versión 2.0, que es **open so
 
 ---
 
-> "Creo que un héroe es quien entiende la responsabilidad que conlleva su libertad."
->
->  Bob Dylan .-
+{% blockquote Bob Dylan  %}
+"Creo que un héroe es quien entiende la responsabilidad que conlleva su libertad."
+{% endblockquote %}

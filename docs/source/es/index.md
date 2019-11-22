@@ -9,11 +9,11 @@ lang: es
 
 ---
 
-> Esta página se puede leer en los siguiente idiomas:
-> 
-> [Inglés](#) | [Español](/beeping/es/)
+Esta página se puede leer en los siguiente idiomas:
+ 
+[Inglés](#) | [Español](/beeping/es/index.html)
 
-=============================
+================================================
 
 Bienvenido a la web oficial de la documentación del proyecto **Beeping**. 
 
@@ -29,6 +29,6 @@ Este es el punto de inicio para **implementar**, **participar**, **proponer** a 
 
 ---
 
-> "Los dos días más importantes de tu vida, son el día que naces y el día en el que descubres por qué."
->
->  Mark Twain .-
+{% blockquote Seth Godin  %}
+"Los dos días más importantes de tu vida, son el día que naces y el día en el que descubres por qué."
+{% endblockquote %}
