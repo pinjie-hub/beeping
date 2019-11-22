@@ -1,17 +1,17 @@
 ---
 layout: default
-id: beepbox
-title: BeepBox
+id: ios
+title: iPhone
 lang: es
 ---
 
-# BeepBox
+# iPhone
 
 ---
 
 > Esta página se puede leer en los siguiente idiomas:
 > 
-> [Inglés](#) | [Español](/beeping/es/beepbox.html)
+> [Inglés](#) | [Español](/beeping/es/ios.html)
 
 =============================
 

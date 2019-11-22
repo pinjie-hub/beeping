@@ -23,6 +23,6 @@ La licencia de **Beeping** es **Apache License**, versión 2.0, que es **open so
 
 ---
 
-{% blockquote Bob Dylan  %}
+{% blockquote Bob Dylan %}
 "Creo que un héroe es quien entiende la responsabilidad que conlleva su libertad."
 {% endblockquote %}

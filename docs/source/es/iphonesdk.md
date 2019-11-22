@@ -1,17 +1,17 @@
 ---
 layout: default
-id: beepbox
-title: BeepBox
+id: iphonesdk
+title: iPhone SDK
 lang: es
 ---
 
-# BeepBox
+# iPhone SDK
 
 ---
 
 > Esta página se puede leer en los siguiente idiomas:
 > 
-> [Inglés](#) | [Español](/beeping/es/beepbox.html)
+> [Inglés](#) | [Español](/beeping/es/iphonesdk.html)
 
 =============================
 

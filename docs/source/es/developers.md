@@ -1,17 +1,17 @@
 ---
 layout: default
-id: beepbox
-title: BeepBox
+id: developers
+title: Desarrolladores
 lang: es
 ---
 
-# BeepBox
+# Desarrolladores
 
 ---
 
 > Esta página se puede leer en los siguiente idiomas:
 > 
-> [Inglés](#) | [Español](/beeping/es/beepbox.html)
+> [Inglés](#) | [Español](/beeping/es/developers.html)
 
 =============================
 

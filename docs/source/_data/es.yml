@@ -13,17 +13,20 @@
     title: Accesos
     href: /beeping/es/links.html
   
-- title: Empezamos
-  items:
-  - id: intro
-    title: Introducción
-    href: /beeping/es/intro.html
-  - id: beepbox
-    title: Beepbox
-    href: /beeping/es/beepbox.html
-
 - title: Contribuciones
   items:
-  - id: translate
-    title: Traducciones
-    href: /beeping/es/translate.html
+    - id: contributors
+      title: Cómo Ayudar
+      href: /beeping/es/contributors.html
+    - id: requirements
+      title: Requisitos
+      href: /beeping/es/requirements.html
+    - id: clone
+      title: Clonación
+      href: /beeping/es/clone.html
+    - id: review
+      title: Revisiones
+      href: /beeping/es/review.html
+    - id: translate
+      title: Traducciones
+      href: /beeping/es/translate.html

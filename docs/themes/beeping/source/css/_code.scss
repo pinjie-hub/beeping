@@ -1,7 +1,7 @@
 $codeBackColor: #fbfbfb;
 
 code {
-  color: #4D4D4C;
+  color: gray;
 }
 
 code,
@@ -24,13 +24,17 @@ pre code {
 
 .highlight {
   font-family: monospace, Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  background-color: $codeBackColor;
+  background-color: #eeeeee;
   border: 1px solid $bordersColor;
   font-size: 13px;
-  line-height: 19px;
+  line-height: 25px;
   overflow: auto;
   padding: 0;
   border-radius: 3px;
+  margin-top: 3%;
+  margin-left: 1%;
+  margin-bottom: 4%;
+  width: 91%;
 
   table {
     width: 100%;
@@ -41,8 +45,9 @@ pre code {
     }
 
     .gutter {
-      white-space: nowrap;
-      border-right: 1px solid $bordersColor;
+      //white-space: nowrap;
+      //border-right: 1px solid $bordersColor;
+      display: none;
 
       pre {
         color: #999;
@@ -51,19 +56,22 @@ pre code {
 
     .code {
       width: 99%;
+      color: gray;
     }
   }
 }
 
 .highlight pre {
-  background-color: $codeBackColor;
+  background-color: #eeeeee;
   // border: 1px solid #cccccc;
   font-size: 13px;
-  line-height: 19px;
+  line-height: 25px;
   overflow: auto;
-  padding: 6px 10px;
+  padding-top: 10px ;
+  padding-bottom: 5px;
+  padding-left: 15px;
   border-radius: 3px;
-  margin-bottom: 0;
+  
 }
 
 pre code,

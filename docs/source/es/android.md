@@ -1,17 +1,17 @@
 ---
 layout: default
-id: beepbox
-title: BeepBox
+id: android
+title: Android
 lang: es
 ---
 
-# BeepBox
+# Android
 
 ---
 
 > Esta página se puede leer en los siguiente idiomas:
 > 
-> [Inglés](#) | [Español](/beeping/es/beepbox.html)
+> [Inglés](#) | [Español](/beeping/es/android.html)
 
 =============================
 

@@ -9,8 +9,10 @@ lang: es
 
 ---
 
-Esta página se puede leer en los siguiente idiomas:
-
-[Inglés](#) | [Español](/beeping/es/intro.html)
+> Esta página se puede leer en los siguiente idiomas:
+> 
+> [Inglés](#) | [Español](/beeping/es/intro.html)
 
 =============================
+
+**Esta página está por escribir**
