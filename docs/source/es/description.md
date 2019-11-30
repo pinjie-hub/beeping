@@ -7,17 +7,11 @@ lang: es
 
 # Descripción general
 
----
+> **Esta página se puede leer en los siguiente idiomas:**
+>  
+> [Inglés](/beeping/description.html) | [Español](/beeping/es/description.html)
 
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/description.html)
-
-================================================
-
-**Beeping** es una tecnología que habilita a tus Apps para enviar y recibir información **a través de ultrasonidos**. 
-
-> A este ultrasonido lo llamamos **Beep**.
+##### **Beeping** es una tecnología que habilita a tus Apps para enviar y recibir información **a través de ultrasonidos**. A este ultrasonido lo llamamos **Beep**.
 
 Un **Beep** es un fichero de audio que al reproducirlo emite una señal no audible para el ser humano. Este audio transporta datos, y esos datos pueden ser enviados a través de cualquier dispositivo que tenga un altavoz.
 
@@ -27,10 +21,10 @@ Para descifrar el contenido de ese audio necesitamos un dispositivo que tenga un
 
 **Beeping** ha sido diseñado para ser una opción más de comunicación que nos ofrece ventajas muy poderosas hoy en día. Establecer comunicaciones sin la necesidad de tener Internet, u enviar y recibir contenido digital en tiempo real.
 
-### Frase
+#### Frase
 
 ---
 
-{% blockquote Ricardo Mesquita  %}
-"Si no existieras deberían inventarte."
-{% endblockquote %}
+Si no existieras deberían inventarte.
+
+**Ricardo Mesquita**

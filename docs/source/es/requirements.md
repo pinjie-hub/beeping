@@ -7,13 +7,9 @@ lang: es
 
 # Requisitos
 
----
-
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/requirements.html)
-
-================================================
+> **Esta página se puede leer en los siguiente idiomas:**
+> 
+>[Inglés](/beeping/requirements.html) | [Español](/beeping/es/requirements.html)
 
 Para poder ayudar al proyecto necesitamos tener instaladas las siguientes herramientas:
 
@@ -23,7 +19,7 @@ Para poder ayudar al proyecto necesitamos tener instaladas las siguientes herram
 
 * Hexo
 
-## Node.js
+#### Node.js
 
 ---
 
@@ -31,7 +27,7 @@ Para poder ayudar al proyecto necesitamos tener instaladas las siguientes herram
 
 Os dejamos el acceso desde dónde lo podéis instalar: {% link Node.js https://nodejs.org/en/download/ true %}.
 
-## Git
+#### Git
 
 ---
 
@@ -53,11 +49,11 @@ $ sudo apt-get install git-core
 $ sudo yum install git-core
 {% endcodeblock %}
 
-### Usuarios de Mac
+##### Usuarios de Mac
  
 Si sois usuarios de Mac y os encontráis con algún problema en la compilación de Git, por favor, haced una instalación de Xcode desde el App Store. Una vez lo hayáis instalado, abrid Xcode e id a **Preferences -> Download -> Command Line Tools -> Install** para instalar la línea de comandos.
 
-## Hexo
+#### Hexo
 
 ---
 
@@ -67,10 +63,10 @@ Para instalar **Hexo**, lo único que necesitamos es instalar su **CLI**:
 $ npm install -g hexo-cli
 {% endcodeblock %}
 
-### Frase
+#### Frase
 
 ---
 
-{% blockquote Proverbio Inglés %}
-"Mi alma a Dios, mi vida al rey, mi corazón a la dama."
-{% endblockquote %}
+Mi alma a Dios, mi vida al rey, mi corazón a la dama.
+
+**Proverbio Inglés**

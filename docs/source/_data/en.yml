@@ -1,7 +1,35 @@
 - title: Beeping
   items:
   - id: index
-    title: Welcome  
+    title: Welcome
     href: /beeping/index.html
-    
-    
+  - id: description
+    title: Overview
+    href: /beeping/description.html
+  - id: license
+    title: License
+    href: /beeping/license.html  
+  - id: links
+    title: Links
+    href: /beeping/links.html
+  
+- title: Cotributions
+  items:
+    - id: contributors
+      title: How to help
+      href: /beeping/contributors.html
+    - id: requirements
+      title: Requirements
+      href: /beeping/requirements.html
+    - id: clone
+      title: Clone
+      href: /beeping/clone.html
+    - id: review
+      title: Reviews
+      href: /beeping/review.html
+    - id: translate
+      title: Translations
+      href: /beeping/translate.html
+    - id: developers
+      title: Developers
+      href: /beeping/developers.html

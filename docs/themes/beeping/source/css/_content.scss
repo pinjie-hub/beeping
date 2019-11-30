@@ -10,24 +10,21 @@
   padding-bottom: 80px;
 }
 
-blockquote {  
-  border-radius: 4px;
-  background-color: rgba(0, 0, 0, 0.2) !important;
-  border: none !important;
-  color: #fff !important;
+blockquote {
+  background-color: #e2e3e5 !important;
+  border-radius: 4px;  
+  color: #383d41 !important;
   padding-left: 4%;
   padding-right: 4%;
-  padding-bottom: 4%;
-  padding-top: 4%;
-  margin-top: 4%;
-  margin-bottom: 4%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   margin-left: 0%;
-}
-
-blockquote > p + footer {
-   margin-left: 1%;
-   padding-top: 1%;
-   margin-bottom: 4%;   
+  //-webkit-box-shadow: inset 0px 1px 10px 1px #000000;
+  border-left-style: outset;
+  border-left-color: #e81e25;
+  border-left-width: 6px;
 }
 
 img {

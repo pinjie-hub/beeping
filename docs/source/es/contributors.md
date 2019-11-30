@@ -7,15 +7,11 @@ lang: es
 
 # Cómo Ayudar
 
----
+> **Esta página se puede leer en los siguiente idiomas:**
+>  
+> [Inglés](/beeping/contributors.html) | [Español](/beeping/es/contributors.html)
 
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/contributors.html)
-
-================================================
-
-Esta documentación es una web estática generada por la herramienta {% link Hexo https://hexo.io/docs/ true %}.
+##### Esta documentación es una web estática generada por la herramienta {% link Hexo https://hexo.io/docs/ true %}.
 
 Existen distintas formas de **ayudar** a hacer crecer el proyecto **Beeping**:
 
@@ -25,27 +21,29 @@ Existen distintas formas de **ayudar** a hacer crecer el proyecto **Beeping**:
 
 * Desarrolladores
 
-## Revisiones
+#### Revisiones
 
 ---
 
 > La revisión de un documento sucede cuando ya ha sido escrito en alguna lengua, y se quiere revisar su traducción o sus posible fallos.
 
-## Traducciones
+#### Traducciones
+
 ---
 
-> Una traducción es la creación de un documento en una nueva lengua.
+> Una **traducción** es la creación de un documento en una nueva lengua.
 
-## Desarrolladores
+#### Desarrolladores
 
 ---
 
 > Éste apartado es para todo aquel que pueda aportar código fuente que ayude a mejorar el proyecto de **Beeping**.
 
-### Frase
+#### Frase
 
 ---
 
-{% blockquote Leonardo Da Vinci %}
-"No se puede poseer mayor gobierno, ni menor, que el de uno mismo."
-{% endblockquote %}
+No se puede poseer mayor gobierno, ni menor, que el de uno mismo.
+
+**Leonardo Da Vinci**
+

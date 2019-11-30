@@ -30,3 +30,6 @@
     - id: translate
       title: Traducciones
       href: /beeping/es/translate.html
+    - id: developers
+      title: Desarrolladores
+      href: /beeping/es/developers.html

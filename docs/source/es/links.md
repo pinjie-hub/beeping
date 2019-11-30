@@ -7,21 +7,17 @@ lang: es
 
 # Sitios de interés
 
----
+> **Esta página se puede leer en los siguiente idiomas:**
+>  
+> [Inglés](/beeping/links.html) | [Español](/beeping/es/links.html)
 
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/links.html)
-
-================================================
-
-### GitHub
+#### GitHub
 
 ---
 
 > Si te encuentras algún problema al implementar el protocolo, o bien algún error, o se te ocurre alguna mejora puedes **abrir una issue** en nuestro {% link Repositorio de Github https://github.com/beeping-io/beeping/issues true %}.
 
-### Stack Overflow 
+#### Stack Overflow 
 
 ---
 
@@ -29,7 +25,7 @@ Esta página se puede leer en los siguiente idiomas:
 
 Cuando escribas en {% link Stack Overflow https://stackoverflow.com/search?q=beeping&mixed=1 true %} acuérdate de usar el tag - **beeping** -.
 
-### Gitter
+#### Gitter
 
 ---
 
@@ -38,18 +34,18 @@ Cuando escribas en {% link Stack Overflow https://stackoverflow.com/search?q=bee
 Aquí os dejamos el acceso a {% link Gitter https://gitter.im/beepingio/community true %}.
 
 
-### Website
+#### Website
 
 ---
 
-> Si queréis tener más información sobre el proyecto podéis entrar en nuestra {% link página web oficial https://beeping.io true %}. 
+Si queréis tener más información sobre el proyecto podéis entrar en nuestra {% link página web oficial https://beeping.io true %}. 
 
-### Frase
+#### Frase
 
 ---
 
-{% blockquote Alfred Rivas %}
-"Al final todo sale bien, y sino es así es porque no es el final."
-{% endblockquote %}
+Al final todo sale bien, y sino es así es porque no es el final.
+
+**Alfred Rivas**
 
 

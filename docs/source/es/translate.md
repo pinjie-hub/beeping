@@ -7,25 +7,19 @@ lang: es
 
 # Traducciones
 
----
+> **Esta página se puede leer en los siguiente idiomas:**
+> 
+> [Inglés](/beeping/translate.html) | [Español](/beeping/es/translate.html)
 
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/translate.html)
+Para hacer la traducción de un documento en una nueva lengua lo primero que debes hacer es crear un nuevo fichero de lenguaje.
 
-================================================
-
-## Traducción de documentos
+#### Fichero de lenguaje
 
 ---
-
-Para hacer la traducción de un documento en una nueva lengua lo primero que debes hacer es crear el fichero de lengua.
-
-### Fichero de lengua
 
 > En el caso de que existan estos ficheros no debes hacer nada más que revisar la traducción.
 
-Para entrar en el directorio de lenguas:
+Entrar en el directorio de lenguajes:
 
 {% codeblock %}
 $ cd beeping/docs/themes/beeping/languages
@@ -39,7 +33,7 @@ Por ejemplo, para crear una nueva lengua - el alemán - :
 $ touch de.yml
 {% endcodeblock %}
 
-Una vez hayamos creado el fichero de lengua lo que hay que hacer es editarlo y modificar el código de lenguaje al que vas a traducir.
+Una vez hayamos creado el fichero de lenguaje lo que hay que hacer es editarlo y modificar el código de lenguaje al que vas a traducir.
 
 {% codeblock %}
 nav: xx
@@ -51,9 +45,11 @@ Por ejemplo, para añadir la lengua alemana escribiremos:
 nav: de
 {% endcodeblock %}
 
-> Una vez hayas creado el documento de lengua, debemos crear un nuevo menú.
+Una vez hayas creado el fichero de lenguaje, **debemos crear un nuevo menú.**
 
-### Nuevo menú
+#### Nuevo menú
+
+---
 
 Entramos en el directorio de menús:
 
@@ -65,7 +61,7 @@ Aquí te encontrarás con distintos archivos de tipo xx.yml.
 
 Lo que debes hacer ahora es copiar un fichero origen xx.yml a la nueva lengua:
 
-Por ejemplo, para crear una nueva lengua - el alemán -, donde el destino de la traducción se el inglés:
+Por ejemplo, para crear una nueva lengua - el alemán -, donde el origen de la traducción es el inglés:
 
 {% codeblock %}
 $ cp en.yml de.yml
@@ -108,13 +104,15 @@ Una vez hecho lo anterior editamos el fichero y te encontrarás algo similar a l
       href: /beeping/es/translate.html
 {% endcodeblock %}
 
-> El tag **title** contiene la palabra que se muestra en el menú. Por lo que es lo único que debemos traducir.
+> El tag **title** contiene la palabra que se muestra en el menú. 
+ 
+> También debemos modificar el tag **href** y modificar el código de lenguaje: href: /beeping/**de**/translate.html
 
-> También debemos modificar el tag **href** y modificar el código de lengua: href: /beeping/**de**/translate.html
+#### Nuevos documentos
 
-### Nuevos documentos
+---
 
-Para traducir los documentos primero debemos entrar en el directorio donde se almacenan:
+Para traducir los documentos, primero debemos entrar en el directorio donde se almacenan:
 
 {% codeblock %}
 $ cd beeping/docs/source/
@@ -122,9 +120,9 @@ $ cd beeping/docs/source/
 
 Aquí encontrarás todos los documentos de tipo MarkDown - .md - en la raíz. 
 
-Los documentos de la raíz están escritos en inglés. 
+> La documentación que está en la raíz está escrita en Inglés. Estos son los únicos ficheros que no deben ir dentro de ninguna carpeta de lenguaje.
 
-Para crear nuevos documentos en la nueva lengua lo que debemos hacer es copiar los documentos origen en la nueva carpeta de lengua. Aquí os dejamos un ejemplo.
+Para crear nuevos documentos en la nueva lengua lo que debemos hacer es copiar los documentos origen - la lengua desde donde se va a traducir - en la nueva carpeta de lengua. Aquí os dejamos un ejemplo.
 
 {% codeblock %}
 $ mkdir de
@@ -137,9 +135,11 @@ Una vez hayamos copiado los documentos accedemos a la carpeta desde donde vamos 
 $ cd de
 {% endcodeblock %}
 
-### Estructura de un documento
+#### Estructura de un documento
 
-Un documento tiene dos partes, el Metadata y el contenido.
+---
+
+Un documento tiene dos partes, el **Metadata** y el **Contenido**.
 
 **El Metadata** se encuentra en la parte inicial del documento y tiene el siguiente formato:
 
@@ -154,14 +154,11 @@ lang: es
 
 > Lo único que debemos modificar del Metadata es el tag **lang** al nuevo código de lenguaje: **lang: de**
 
-**El contenido** está escrito en lenguaje de MarkDown, con lo que sólo nos quedará hacer la traducción del propio texto.
+**El contenido** está escrito en lenguaje de MarkDown, con lo que sólo nos quedará hacer la traducción del propio texto. Una vez hayas hecho las modificaciones que creas conveniente, haz un **"Pull Request"** de los cambios para que podamos ver los cambios y publicar el nuevo contenido online.
 
-> Una vez hayas hecho las modificaciones que creas conveniente, haz un **"Pull Request"** de los cambios para que podamos ver los cambios y publicar el nuevo contenido online.
-
-### Frase
-
+#### Frase
 ---
 
-{% blockquote Confucio %}
-"Elige un trabajo que ames y no tendrás que trabajar ningún día de tu vida."
-{% endblockquote %}
+Elige un trabajo que ames y no tendrás que trabajar ningún día de tu vida.
+
+**Confucio**

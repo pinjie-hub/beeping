@@ -7,12 +7,8 @@ lang: es
 
 # Desarrolladores
 
----
-
-> Esta página se puede leer en los siguiente idiomas:
-> 
-> [Inglés](#) | [Español](/beeping/es/developers.html)
-
-=============================
+> **Esta página se puede leer en los siguiente idiomas:**
+>  
+> [Inglés](/beeping/developers.html) | [Español](/beeping/es/developers.html)
 
 **Esta página está por escribir**

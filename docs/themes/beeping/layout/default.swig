@@ -5,8 +5,7 @@
   <meta charSet='utf-8' />
   <title>Beeping - {{ page.title }}</title>
   <link href='{{ url_for("fonts/stylesheet.css") }}' rel='stylesheet'>
-  <link href='{{ url_for("css/docs.css") }}' rel='stylesheet'>
-  <link href='{{ url_for("css/style.css") }}' rel='stylesheet'>
+  <link href='{{ url_for("css/docs.css") }}' rel='stylesheet'>  
   <link rel="icon" type="image/x-icon" href='{{ url_for("favicon.ico") }}'>
 </head>
 

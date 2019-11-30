@@ -7,19 +7,15 @@ lang: es
 
 # Repositorio documental
 
----
+> **Esta página se puede leer en los siguiente idiomas:**
+> 
+> [Inglés](/beeping/clone.html) | [Español](/beeping/es/clone.html)
 
-Esta página se puede leer en los siguiente idiomas:
- 
-[Inglés](#) | [Español](/beeping/es/clone.html)
-
-================================================
-
-La documentación de **Beeping** es Open Source.
+##### La documentación de **Beeping** es Open Source.
 
 Aquí os dejamos el acceso al repositorio principal donde se encuentra toda la documentación: {% link Documentación de Beeping https://github.com/beeping-io/beeping true %}
 
-### Clonar el repositorio de GitHub
+#### Clonar el repositorio de GitHub
 
 ---
 
@@ -45,10 +41,10 @@ $ hexo server
 http://localhost:4000
 {% endcodeblock %}
 
-### Frase
+#### Frase
 
 ---
 
-{% blockquote Mahatma Gandhi %}
-"Un pequeño cuerpo de espíritu decidido iluminado por una fe insaciable en su misión puede alterar el curso de la historia."
-{% endblockquote %}
+Un pequeño cuerpo de espíritu decidido iluminado por una fe insaciable en su misión puede alterar el curso de la historia.
+
+**Mahatma Gandhi**
