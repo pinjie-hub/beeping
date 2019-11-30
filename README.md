@@ -30,7 +30,7 @@ You can access all these components from our [main repository](https://github.co
 
 ## Documentation
 
-From this link - [Official Documentation](https://beeping-io.github.io/beeping/es) - you can access all the official **Beeping** documentation.
+From this link - [Official Documentation](https://beeping-io.github.io/beeping) - you can access all the official **Beeping** documentation.
 
 ## Contributors
 
