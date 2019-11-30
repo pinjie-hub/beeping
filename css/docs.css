@@ -1,8 +1,4 @@
 .menu {
-  /*background-image: url("../images/bg/bg-blue.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
   -webkit-box-shadow: 0 1px 100px rgba(0, 0, 0, 0.6), 0 0 40px rgba(0, 0, 0, 0.2) inset;
   -moz-box-shadow: 0 1px 100px rgba(0, 0, 0, 0.6), 0 0 40px rgba(0, 0, 0, 0.2) inset;
   box-shadow: 0 1px 100px rgba(0, 0, 0, 0.6), 0 0 40px rgba(0, 0, 0, 0.2) inset;
@@ -10,7 +6,11 @@
   top: 0;
   left: 0;
   bottom: 0;
-  width: 20%; }
+  width: 20%;
+  background-image: url("../images/bg/bg-blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh; }
 
 .logo img {
   width: 60%;
@@ -86,12 +86,19 @@
   padding-bottom: 80px; }
 
 blockquote {
+  background-color: #e2e3e5 !important;
   border-radius: 4px;
-  background-color: rgba(0, 0, 0, 0.5) !important;
-  border: none !important;
-  color: #fff !important;
-  padding: 4%;
-  margin: 4%; }
+  color: #383d41 !important;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 0%;
+  border-left-style: outset;
+  border-left-color: #e81e25;
+  border-left-width: 6px; }
 
 img {
   max-width: 100%; }
@@ -136,66 +143,103 @@ a {
     right: 0; }
 
 h1 {
-  font-family: Graphik-Bold, Roboto, sans-serif;
-  font-size: 34px;
+  font-family: Graphik-Medium, Roboto, sans-serif;
+  font-size: 3rem;
   letter-spacing: 0.40rem;
-  padding-top: 4%;
-  padding-bottom: 2%;
-  color: #FFFFFF; }
+  padding-top: 1%;
+  padding-bottom: 1%;
+  line-height: 32px; }
 
 h1 ~ hr {
   margin-bottom: 4%;
   border: 0;
   height: 3px;
   background: #333;
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%); }
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, #333), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%); }
 
 h2 {
   font-family: Graphik-Medium, Roboto, sans-serif;
-  font-size: 25px;
+  font-size: 2.5rem;
   letter-spacing: 0.25rem;
-  color: #FFFFFF;
   padding-top: 3%;
-  padding-bottom: 2%; }
+  padding-bottom: 2%;
+  line-height: 32px; }
 
 h2 ~ hr {
   margin-bottom: 4%;
   border: 0;
   height: 2px;
   background: #333;
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%); }
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, #333), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%); }
 
 h3 {
-  font-size: 20px;
+  font-size: 2.0rem;
   letter-spacing: 0.20rem;
   font-family: Graphik-Regular, Roboto, sans-serif;
   padding-top: 2%;
-  padding-bottom: 2%; }
+  padding-bottom: 2%;
+  line-height: 32px; }
 
 h3 ~ hr {
   margin-bottom: 4%;
   border: 0;
   height: 1px;
   background: #333;
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, white), color-stop(50%, transparent));
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -moz-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -ms-linear-gradient(left, transparent 0%, white 0%, transparent 50%);
-  background: -webkit-linear-gradient(left, transparent 0%, white 0%, transparent 50%); }
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, #333), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%); }
+
+h4 {
+  font-size: 1.5rem;
+  letter-spacing: 0.20rem;
+  font-family: Graphik-Regular, Roboto, sans-serif;
+  padding-top: 0%;
+  padding-bottom: 0%; }
+
+h4 ~ hr {
+  margin-bottom: 0%;
+  border: 0;
+  height: 1px;
+  background: #333;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, #333), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%); }
+
+h5 {
+  font-size: 1.0rem;
+  letter-spacing: 0.15rem;
+  font-family: Graphik-Regular, Roboto, sans-serif;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  line-height: 32px; }
+
+h5 ~ hr {
+  margin-bottom: 0%;
+  border: 0;
+  height: 1px;
+  background: #333;
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, transparent), color-stop(0%, #333), color-stop(50%, transparent));
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -moz-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -ms-linear-gradient(left, transparent 0%, #333 0%, transparent 50%);
+  background: -webkit-linear-gradient(left, transparent 0%, #333 0%, transparent 50%); }
 
 p, ul li {
-  color: #FFFFFF;
-  font-size: 16px;
+  font-size: 0.875rem;
   line-height: 32px;
-  letter-spacing: 0.20rem;
+  letter-spacing: 0.10rem;
   font-family: Graphik-Light, Roboto, sans-serif; }
 
 a {
@@ -209,7 +253,7 @@ strong {
   font-family: Graphik-Medium; }
 
 code {
-  color: #4D4D4C; }
+  color: gray; }
 
 code,
 tt {
@@ -228,34 +272,39 @@ pre code {
 
 .highlight {
   font-family: monospace, Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  background-color: #fbfbfb;
+  background-color: #eeeeee;
   border: 1px solid #efefef;
   font-size: 13px;
-  line-height: 19px;
+  line-height: 25px;
   overflow: auto;
   padding: 0;
-  border-radius: 3px; }
+  border-radius: 3px;
+  margin-top: 3%;
+  margin-left: 1%;
+  margin-bottom: 4%;
+  width: 91%; }
   .highlight table {
     width: 100%; }
     .highlight table .gutter,
     .highlight table .code {
       border: 0; }
     .highlight table .gutter {
-      white-space: nowrap;
-      border-right: 1px solid #efefef; }
+      display: none; }
       .highlight table .gutter pre {
         color: #999; }
     .highlight table .code {
-      width: 99%; }
+      width: 99%;
+      color: gray; }
 
 .highlight pre {
-  background-color: #fbfbfb;
+  background-color: #eeeeee;
   font-size: 13px;
-  line-height: 19px;
+  line-height: 25px;
   overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px;
-  margin-bottom: 0; }
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  border-radius: 3px; }
 
 pre code,
 pre tt {
@@ -375,9 +424,5 @@ body {
   font-family: Graphik-Regular, Roboto, sans-serif;
   letter-spacing: 0.10rem;
   line-height: 0.30rem;
-  color: white;
-  margin: 0 auto;
-  background-image: url("../images/bg/bg-blue.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 100vh; }
+  color: #4A4A4A;
+  margin: 0 auto; }
