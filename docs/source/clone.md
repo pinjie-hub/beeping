@@ -19,9 +19,9 @@ Here you have access to the main repository where all the documentation is locat
 
 ---
 
-1. Fork {% link our repository https://github.com/beeping-io/beeping true %}
+- Fork {% link our repository https://github.com/beeping-io/beeping true %}
 
-2. Clone the repository and install the dependencies:
+- Clone the repository and install the dependencies:
 
 {% codeblock %}
 $ git clone https://github.com/<username>/beeping.git
@@ -29,17 +29,25 @@ $ cd beeping/docs
 $ npm install
 {% endcodeblock %}
 
-3. Start the Hexo server
+- Create a new branch
+
+{% codeblock %}
+git checkout -b <new feature>
+{% endcodeblock %}
+
+- Start the **Hexo server**
 
 {% codeblock %}
 $ hexo server
 {% endcodeblock %}
 
-4. To see the documents in your browser enter the following url:
+- To see the documents in your browser enter the following url:
 
 {% codeblock %}
 http://localhost:4000
 {% endcodeblock %}
+
+> At this point you can choose "**Review**" or "**Translate**" a document. Please, check the next sections to understand how to proceed.
 
 #### Quote
 
