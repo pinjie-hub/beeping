@@ -5,7 +5,7 @@ title: Traducciones
 lang: cn
 ---
 
-# Traducciones
+# 翻译
 
 > **网页可切换各种语言:**
 > 

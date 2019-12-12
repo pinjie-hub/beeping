@@ -5,7 +5,7 @@ title: Como Ayudar
 lang: cn
 ---
 
-# Cómo Ayudar
+# 如何帮助
 
 > **网页可切换各种语言:**
 >  

@@ -19,9 +19,9 @@ Aquí os dejamos el acceso al repositorio principal donde se encuentra toda la d
 
 ---
 
-1. Haz un fork de {% link nuestro repositorio https://github.com/beeping-io/beeping true %}
+- Haz un fork de {% link nuestro repositorio https://github.com/beeping-io/beeping true %}
 
-2. Haz un clon del repositorio e instala las dependencias:
+- Haz un clon del repositorio e instala las dependencias:
 
 {% codeblock %}
 $ git clone https://github.com/<username>/beeping.git
@@ -29,17 +29,25 @@ $ cd beeping/docs
 $ npm install
 {% endcodeblock %}
 
-3. Arranca el servidor de Hexo:
+- Crea un nuevo branch
+
+{% codeblock %}
+git checkout -b <new feature>
+{% endcodeblock %}
+
+- Arranca el servidor de Hexo:
 
 {% codeblock %}
 $ hexo server
 {% endcodeblock %}
 
-4. Para ver los documentos en tu navegador entra la siguiente url:
+- Para ver los documentos en tu navegador entra la siguiente url:
 
 {% codeblock %}
 http://localhost:4000
 {% endcodeblock %}
+
+
 
 #### Frase
 
