@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 > 
->[English](/beeping/requirements.html) | [Spanish](/beeping/es/requirements.html)
+> [Inglés](/beeping/requirements.html) | [Español](/beeping/es/requirements.html) | [中文](/beeping/zh-CN/requirements.html)
 
 In order to help the project you need to have the following tools installed:
 

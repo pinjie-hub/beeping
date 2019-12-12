@@ -9,7 +9,7 @@ lang: es
 
 > **Esta página se puede leer en los siguiente idiomas:**
 >  
-> [Inglés](/beeping/description.html) | [Español](/beeping/es/description.html)
+> [Inglés](/beeping/description.html) | [Español](/beeping/es/description.html) | [中文](/beeping/zh-CN/description.html)
 
 ##### **Beeping** es una tecnología que habilita a tus Apps para enviar y recibir información **a través de ultrasonidos**. A este ultrasonido lo llamamos **Beep**.
 

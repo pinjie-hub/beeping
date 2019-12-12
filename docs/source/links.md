@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 >  
-> [English](/beeping/links.html) | [Spanish](/beeping/es/links.html)
+> [Inglés](/beeping/links.html) | [Español](/beeping/es/links.html) | [中文](/beeping/zh-CN/links.html)
 
 #### GitHub
 

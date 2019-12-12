@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 >  
-> [English](/beeping/description.html) | [Spanish](/beeping/es/description.html)
+> [Inglés](/beeping/description.html) | [Español](/beeping/es/description.html) | [中文](/beeping/zh-CN/description.html)
 
 ##### **Beeping** is a technology that enables your Apps to send and receive information **over ultrasounds**. We call this ultrasound **Beep**.
 

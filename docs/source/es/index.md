@@ -9,7 +9,7 @@ lang: es
 
 > **Esta página se puede leer en los siguiente idiomas:**
 >  
-> [Inglés](/beeping/index.html) | [Español](/beeping/es/index.html)
+> [Inglés](/beeping/index.html) | [Español](/beeping/es/index.html) | [中文](/beeping/zh-CN/index.html)
 
 ##### Bienvenido a la web oficial de la documentación del proyecto Beeping.
 

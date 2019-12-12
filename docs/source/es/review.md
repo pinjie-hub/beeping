@@ -9,7 +9,7 @@ lang: es
 
 > **Esta página se puede leer en los siguiente idiomas:**
 >  
-> [Inglés](/beeping/review.html) | [Español](/beeping/es/review.html)
+> [Inglés](/beeping/review.html) | [Español](/beeping/es/review.html) | [中文](/beeping/zh-CN/review.html)
 
 Para hacer la revisión de los documentos debes entrar en el siguiente directorio:
 

@@ -1,14 +1,14 @@
 ---
 layout: default
 id: developers
-title: Developers
-lang: en
+title: Desarrolladores
+lang: cn
 ---
 
-# Developers
+# 开发者
 
-> **This page can be read in the following languages:**
+> **网页可切换各种语言:**
 >  
 > [Inglés](/beeping/developers.html) | [Español](/beeping/es/developers.html) | [中文](/beeping/zh-CN/developers.html)
 
-**This page is about to be written**
+**该页面即将编写**

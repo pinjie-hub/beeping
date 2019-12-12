@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 >  
-> [English](/beeping/review.html) | [Spanish](/beeping/es/review.html)
+> [Inglés](/beeping/review.html) | [Español](/beeping/es/review.html) | [中文](/beeping/zh-CN/review.html)
 
 To review the documents you must enter the following directory:
 
