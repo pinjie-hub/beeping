@@ -9,7 +9,7 @@ lang: es
 
 > **Esta página se puede leer en los siguiente idiomas:**
 >  
-> [Inglés](/beeping/contributors.html) | [Español](/beeping/es/contributors.html)
+> [Inglés](/beeping/contributors.html) | [Español](/beeping/es/contributors.html) | [中文](/beeping/zh-CN/contributors.html)
 
 ##### Esta documentación es una web estática generada por la herramienta {% link Hexo https://hexo.io/docs/ true %}.
 

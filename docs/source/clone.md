@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 > 
-> [English](/beeping/clone.html) | [Spanish](/beeping/es/clone.html)
+> [Inglés](/beeping/clone.html) | [Español](/beeping/es/clone.html) | [中文](/beeping/zh-CN/clone.html)
 
 ##### **Beeping** documentation is Open Source.
 

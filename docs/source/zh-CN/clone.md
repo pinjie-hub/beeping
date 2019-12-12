@@ -1,17 +1,17 @@
 ---
 layout: default
 id: clone
-title: Clonar el repositorio
-lang: es
+title: 克隆存储库
+lang: cn
 ---
 
-# Repositorio documental
+# 资源文档
 
-> **Esta página se puede leer en los siguiente idiomas:**
+> **网页可切换各种语言:**
 > 
 > [Inglés](/beeping/clone.html) | [Español](/beeping/es/clone.html) | [中文](/beeping/zh-CN/clone.html)
 
-##### La documentación de **Beeping** es Open Source.
+##### **Beeping** 的文档是开源的.
 
 Aquí os dejamos el acceso al repositorio principal donde se encuentra toda la documentación: {% link Documentación de Beeping https://github.com/beeping-io/beeping true %}
 
@@ -41,10 +41,10 @@ $ hexo server
 http://localhost:4000
 {% endcodeblock %}
 
-#### Frase
+#### 引用
 
 ---
 
-Un pequeño cuerpo de espíritu decidido iluminado por una fe insaciable en su misión puede alterar el curso de la historia.
+一个意志坚定的小身体，被对他的使命永不满足的信念所照亮，可以改变历史的进程.
 
-**Mahatma Gandhi**
+**Mahatma Gandhi(圣雄甘地)**

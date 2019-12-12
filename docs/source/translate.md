@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 > 
-> [English](/beeping/translate.html) | [Spanish](/beeping/es/translate.html)
+> [Inglés](/beeping/translate.html) | [Español](/beeping/es/translate.html) | [中文](/beeping/zh-CN/translate.html)
 
 To translate a document into a new language, the first thing you should do is create a new language file.
 

@@ -9,7 +9,7 @@ lang: en
 
 > **This page can be read in the following languages:**
 >  
-> [English](/beeping/license.html) | [Spanish](/beeping/es/license.html)
+> [Inglés](/beeping/license.html) | [Español](/beeping/es/license.html) | [中文](/beeping/zh-CN/license.html)
 
 ##### **Beeping** is licensed by **Apache License**, version 2.0, which is **open source**.
 

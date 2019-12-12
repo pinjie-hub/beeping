@@ -1,0 +1,35 @@
+- title: Beeping
+  items:
+  - id: index
+    title: 欢迎光临
+    href: /beeping/zh-CN/index.html
+  - id: description
+    title: 概观
+    href: /beeping/zh-CN/description.html
+  - id: license
+    title: 许可证
+    href: /beeping/zh-CN/license.html  
+  - id: links
+    title: 链接
+    href: /beeping/zh-CN/links.html
+  
+- title: 文稿
+  items:
+    - id: contributors
+      title: 如何帮助
+      href: /beeping/zh-CN/contributors.html
+    - id: requirements
+      title: 要求
+      href: /beeping/zh-CN/requirements.html
+    - id: clone
+      title: 克隆
+      href: /beeping/zh-CN/clone.html
+    - id: review
+      title: 评论
+      href: /beeping/zh-CN/review.html
+    - id: translate
+      title: 翻译
+      href: /beeping/zh-CN/translate.html
+    - id: developers
+      title: 开发人员
+      href: /beeping/zh-CN/developers.html

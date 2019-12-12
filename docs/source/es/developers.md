@@ -9,6 +9,6 @@ lang: es
 
 > **Esta página se puede leer en los siguiente idiomas:**
 >  
-> [Inglés](/beeping/developers.html) | [Español](/beeping/es/developers.html)
+> [Inglés](/beeping/developers.html) | [Español](/beeping/es/developers.html) | [中文](/beeping/zh-CN/developers.html)
 
 **Esta página está por escribir**
