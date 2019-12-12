@@ -154,7 +154,20 @@ lang: es
 
 > Lo único que debemos modificar del Metadata es el tag **lang** al nuevo código de lenguaje: **lang: de**
 
-**El contenido** está escrito en lenguaje de MarkDown, con lo que sólo nos quedará hacer la traducción del propio texto. Una vez hayas hecho las modificaciones que creas conveniente, haz un **"Pull Request"** de los cambios para que podamos ver los cambios y publicar el nuevo contenido online.
+**El contenido** está escrito en lenguaje de MarkDown, con lo que sólo nos quedará hacer la traducción del propio texto. 
+
+#### Pull Request
+
+---
+
+"**Commit**" y "**push**" el código fuente.
+
+{% codeblock %}
+$ git commit -a -m "new feature"
+$ git push origin <branch_name>
+{% endcodeblock %}
+
+> Una vez hayas hecho las modificaciones que creas conveniente, haz un **"Pull Request"** de los cambios para que podamos ver los cambios y publicar el nuevo contenido online.
 
 #### Frase
 ---

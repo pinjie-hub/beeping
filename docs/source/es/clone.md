@@ -47,7 +47,7 @@ $ hexo server
 http://localhost:4000
 {% endcodeblock %}
 
-
+> En este punto puedes escoger "**Revisar**" or "**Traducir**" un documento. Por favor, revisa las siguientes secciones para entender cómo proceder.
 
 #### Frase
 
