@@ -1,10 +1,10 @@
 ![Beeping Logo](https://beeping.io/assets/images/beeping/brand/brand48.png)
 
-# Beeping Documentation
+# Beeping Documentation 
 
 > This page can be read in the following languages:
 
-[English](README.md) | [Spanish](README.es.md)
+[English](README.md) | [Spanish](README.es.md) | [中文](README.zh-CN.md)
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@
 [Hexo](#hexo) |
 [License](#license) |
 [Quote](#quote)
+
 
 ## What Beeping is
 

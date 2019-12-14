@@ -4,7 +4,7 @@
 
 > La documentación de **Beeping** se puede leer en los siguiente idiomas:
 
-[Inglés](README.md) | [Español](README.es.md)
+[Inglés](README.md) | [Español](README.es.md) | [中文](README.zh-CN.md)
 
 ## Tabla de contenidos
 

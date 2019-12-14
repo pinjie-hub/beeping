@@ -29,7 +29,7 @@ $ cd beeping/docs
 $ npm install
 {% endcodeblock %}
 
--创建一个新分支
+- 创建一个新分支
 
 {% codeblock %}
 git checkout -b <new feature>
@@ -41,7 +41,7 @@ git checkout -b <new feature>
 $ hexo server
 {% endcodeblock %}
 
--如欲在浏览器内浏览文件，请输入以下网址:
+- 如欲在浏览器内浏览文件，请输入以下网址:
 
 {% codeblock %}
 http://localhost:4000
@@ -55,4 +55,4 @@ http://localhost:4000
 
 一个意志坚定的小身体，被对他的使命永不满足的信念所照亮，可以改变历史的进程.
 
-**Mahatma Gandhi(圣雄甘地)**
+**圣雄甘地(Mahatma Gandhi)**
